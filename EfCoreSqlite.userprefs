@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{792FC757-49B9-4FFF-8470-719C6C70A5C7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EfCoreSqlite/EfCoreSqlite/ProductsPage.xaml">
+    <Files>
+      <File FileName="EfCoreSqlite/EfCoreSqlite/ProductsPage.xaml" Line="28" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.EfCoreSqlite.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
